@@ -5,7 +5,7 @@ import { GifGrid } from "./components/GifGrid";
 
 export const GifExpertApp = () => {
 
-    const [categories, setCategories] = useState(['ejemplo1', 'ejemplo2']);
+    const [categories, setCategories] = useState(['Blue Lock']);
 
     const onAddCategory = ( newCategory ) => {
 
